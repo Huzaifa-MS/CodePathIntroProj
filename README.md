@@ -4,9 +4,9 @@
 `TODO://` Add app description
 
 ### App Walk-though
-Soryy couldn't figure out how to put the gif image directly into Github so put it on Giphy.
+Sorry couldn't figure out how to put the gif image directly into Github so put it on Giphy.
 
-<img src= https://i.imgur.com/HLXy4jW.gifv width =200><br>
+<img src="https://i.imgur.com/HLXy4jW.gifv"width =200><br>
 
 link to GIF.
 https://giphy.com/gifs/cYHo6sU779yRd9n0bA
