@@ -4,7 +4,6 @@
 `TODO://` Add app description
 
 ### App Walk-though
-Sorry couldn't figure out how to put the gif image directly into Github so put it on Giphy.
 
 <img src="https://i.imgur.com/HLXy4jW.gifv"width =200><br>
 
